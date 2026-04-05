@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI PDF知识检索助手
 
 ## 1. 项目介绍
@@ -145,3 +146,7 @@ http://localhost:8501
 - 支持关键词历史记录
 - 支持 PDF 内容摘要
 - 支持界面美化和布局优化
+=======
+# ai-pdf-assistant
+AI PDF document question answering assistant built with Python and Streamlit
+>>>>>>> 13a6f74ae96f5ac8f069e211261104e65fa556ae
