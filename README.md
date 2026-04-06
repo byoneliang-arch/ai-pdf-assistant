@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI PDF知识检索助手
 
 ## 1. 项目介绍
@@ -115,8 +114,6 @@ http://localhost:8501
 .
 ├── main.py
 ├── requirements.txt
-├── generate_plot.py
-├── result.png
 └── README.md
 ```
 
@@ -127,12 +124,6 @@ http://localhost:8501
 
 - `requirements.txt`
   项目依赖文件，目前你可以把需要的依赖写入这里，方便后续统一安装。
-
-- `generate_plot.py`
-  一个独立的 Python 示例脚本，用于生成随机数折线图，与 PDF 检索主功能无直接关系。
-
-- `result.png`
-  由 `generate_plot.py` 生成的图片文件。
 
 - `README.md`
   项目说明文档，用于介绍项目功能、安装方法和使用方式。
@@ -146,7 +137,3 @@ http://localhost:8501
 - 支持关键词历史记录
 - 支持 PDF 内容摘要
 - 支持界面美化和布局优化
-=======
-# ai-pdf-assistant
-AI PDF document question answering assistant built with Python and Streamlit
->>>>>>> 13a6f74ae96f5ac8f069e211261104e65fa556ae
