@@ -92,6 +92,8 @@ http://localhost:8501
 - 参考原文片段展示区域
 - 页码定位信息
 
+![项目首页](./images/home.png)
+![检索结果](./images/result.png)
 
 
 
