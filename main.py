@@ -231,8 +231,8 @@ def generate_answer_lines(keyword_input: str, reference_items: list[dict]) -> li
 
 
 def main() -> None:
-    st.set_page_config(page_title="AI PDF学习助手", page_icon="📘")
-    st.title("AI PDF学习助手")
+    st.set_page_config(page_title="AI PDF知识检索助手", page_icon="📘")
+    st.title("AI PDF知识检索助手")
     st.write("上传 PDF 文件后，输入关键词，系统会从文档中找出最相关的内容。")
 
     st.subheader("第一步：上传 PDF")
